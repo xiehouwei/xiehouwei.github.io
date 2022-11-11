@@ -1,0 +1,3 @@
+http://example.com/manifest.json
+http://example.com/posts/undefined.htm
+http://example.com/
